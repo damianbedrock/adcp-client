@@ -1,5 +1,11 @@
 # Changelog
 
+## 9.4.0
+
+### Minor Changes
+
+- 38be5ff: Refine TypeScript adagents property resolution for legacy inline entries, schema-valid revocation filtering, ambiguous URL fail-closed behavior, and add `getAllProperties`.
+
 ## 9.3.0
 
 ### Minor Changes
